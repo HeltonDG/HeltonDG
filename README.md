@@ -18,7 +18,7 @@ I am a mission-driven **Systems Maintainer (35T)** with 7 years of experience ma
 
 ## 🚀 Current Engineering Projects (RHCSA & Bash)
 
-* **[Linux-System-Audit](link-to-your-repo):** My first automation project. A Bash utility designed to capture a "known good" system state and automate pre-maintenance checks for RHEL servers.
+* **[Linux-System-Audit](https://github.com/HeltonDG/linux-system-audit/blob/main/system_audit.sh):** My first automation project. A Bash utility designed to capture a "known good" system state and automate pre-maintenance checks for RHEL servers.
 * **[RHEL-Hardening-Suite](link-to-your-future-repo):** (In Development) A collection of Bash scripts designed to automate STIG-compliant security hardening for RHEL 9.
 * **[Home-Lab-Infrastructure](link-to-your-future-repo):** Documenting my virtualized lab environment including pfSense, Proxmox, and RHEL server nodes.
 
