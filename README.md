@@ -1,4 +1,4 @@
-# Hi, I'm Helton Da Graca 👋
+# Hi, I'm Helton Da Graca 
 
 ### 🇺🇸 Active Duty Army (E-5) | 35T Systems Maintainer | Aspiring Linux Systems Engineer
 
@@ -16,7 +16,7 @@ I am a mission-driven **Systems Maintainer (35T)** with 7 years of experience ma
 
 ---
 
-## 🚀 Current Engineering Projects (RHCSA & Bash)
+## Current Engineering Projects (RHCSA & Bash)
 
 * **[Linux-System-Audit](https://github.com/HeltonDG/linux-system-audit/blob/main/system_audit.sh):** My first automation project. A Bash utility designed to capture a "known good" system state and automate pre-maintenance checks for RHEL servers.
 * **[RHEL-Hardening-Suite](link-to-your-future-repo):** (In Development) A collection of Bash scripts designed to automate STIG-compliant security hardening for RHEL 9.
@@ -24,7 +24,7 @@ I am a mission-driven **Systems Maintainer (35T)** with 7 years of experience ma
 
 ---
 
-## 📈 Goals for 2026
+## Goals for 2026
 - [ ] Achieve **RHCSA** (Red Hat Certified System Administrator) by March.
 - [ ] Complete **CySA+** via RapidAscent training.
 - [ ] Bridge to a **Systems Engineering** or **Senior SysAdmin** role in Northern Virginia.
@@ -32,7 +32,7 @@ I am a mission-driven **Systems Maintainer (35T)** with 7 years of experience ma
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 * **Location:** Raeford, NC ➡️ Relocating to Northern Virginia (2026)
 * **Interests:** Home Lab Engineering, Real Estate Wealth Building, and sustainable living (Chicken farming 🐔).
 
