@@ -1,41 +1,56 @@
-# Hi, I'm Helton Da Graca 
+Hi, I’m Helton Da Graca 
 
-### 🇺🇸 Active Duty Army (E-5) | 35T Systems Maintainer | Aspiring Linux Systems Engineer
-
-I am a mission-driven **Systems Maintainer (35T)** with 7 years of experience managing critical intelligence infrastructure. Currently transitioning into the civilian sector and the **National Guard** in Northern Virginia, I focus on building secure, automated, and resilient Linux environments.
-
----
-
-## 🛠️ Technical Arsenal
-
-* **Certifications:** CompTIA A+ | Network+ | Security+ (The Trifecta)
-* **Active Pursuit:** Red Hat Certified System Administrator (RHCSA) — Target: March 2026
-* **Security Clearance:** Active TS/SCI (Fully cleared and mission-ready)
-* **Education:** B.S. Cybersecurity & Information Assurance @ Western Governors University (36% Complete)
-* **Primary Skills:** RHEL/AlmaLinux Administration, Bash Scripting, Hardware Maintenance, Network Security (CySA+ focus)
+Active Duty U.S. Army (E-5) | 35T – Systems Maintainer  
+Aspiring Linux Systems Administrator / Engineer
 
 ---
 
-## Current Engineering Projects (RHCSA & Bash)
+### About Me
 
-* **[Linux-System-Audit](https://github.com/HeltonDG/linux-system-audit/blob/main/system_audit.sh):** My first automation project. A Bash utility designed to capture a "known good" system state and automate pre-maintenance checks for RHEL servers.
-* **[RHEL-Hardening-Suite](link-to-your-future-repo):** (In Development) A collection of Bash scripts designed to automate STIG-compliant security hardening for RHEL 9.
-* **[Home-Lab-Infrastructure](link-to-your-future-repo):** Documenting my virtualized lab environment including pfSense, Proxmox, and RHEL server nodes.
+I’m a mission-driven systems maintainer with **7 years of Active Duty Army service**, including **4 years as a 35T (Systems Maintainer)** supporting and sustaining critical intelligence infrastructure in secure environments. I’m currently transitioning to the civilian sector and the National Guard, with a focused goal of moving into Linux systems administration and engineering roles.
 
----
-
-## Goals for 2026
-- [ ] Achieve **RHCSA** (Red Hat Certified System Administrator) by March.
-- [ ] Complete **CySA+** via RapidAscent training.
-- [ ] Bridge to a **Systems Engineering** or **Senior SysAdmin** role in Northern Virginia.
-- [ ] Master Infrastructure as Code (IaC) using Ansible.
+My current emphasis is on **strong Linux fundamentals**, hands-on lab work, and building a deep understanding of how systems behave in production — not just how to configure them once.
 
 ---
 
-## Connect with me
-* **Location:** Raeford, NC ➡️ Relocating to Northern Virginia (2026)
-* **Interests:** Home Lab Engineering, Real Estate Wealth Building, and sustainable living (Chicken farming 🐔).
+### Current Focus
+
+- Preparing for **Red Hat Certified System Administrator (RHCSA)**
+- Building RHCSA-aligned Linux labs (users, permissions, systemd, storage)
+- Practicing least-privilege access models and secure operations
+- Writing small Bash utilities to inspect and validate system state
+
+I prefer learning by **building, breaking, validating, and documenting** rather than relying on rote memorization.
 
 ---
 
-> *"Striving for greatness through automation, security, and continuous learning."*
+### Background & Credentials
+
+- **Military**: Active Duty U.S. Army (E-5), 35T – Systems Maintainer  
+- **Experience**: 7 years Active Duty (4 years in systems maintenance roles)  
+- **Education**: B.S. Cybersecurity & Information Assurance (WGU, in progress)  
+- **Certifications**: CompTIA A+, Network+, Security+  
+- **Security Clearance**: Active TS/SCI  & CI poly
+
+---
+
+### Projects (Learning-Focused)
+
+- **Linux System Audit (Bash)**  
+  Modular scripts designed to inspect system state and report health using exit codes and least-privilege execution.
+
+- **RHEL Labs (In Progress)**  
+  Hands-on labs aligned with RHCSA objectives, focused on identity management, permissions, services, and storage fundamentals.
+
+> Projects here are learning artifacts — I aim to understand and explain every line of code I write.
+
+---
+
+### Location & Transition
+
+📍 Currently in Raeford, NC  
+➡️ Relocating to Northern Virginia in 2026
+
+---
+
+*This profile and my repositories reflect an active learning process. Nothing here contains sensitive, classified, or proprietary information.*
