@@ -60,8 +60,3 @@ I am particularly interested in environments where operational reliability, disc
 My career trajectory is centered on Linux-based infrastructure with an increasing focus on platform security.
 
 I am particularly interested in environments where operational reliability, disciplined access control, and thoughtful system design are treated as mission-critical.
-
-Location
-
-📍 Raeford, NC
-➡️ Relocating to Northern Virginia (2026)
