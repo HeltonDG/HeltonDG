@@ -16,7 +16,10 @@ My work centers on developing deep Linux capability through hands-on engineering
 - Building production-style Linux lab environments  
 - Practicing least-privilege access models and secure administrative workflows  
 - Strengthening troubleshooting and system-level reasoning  
-- Writing Bash utilities to validate and inspect system state  
+- Writing Bash utilities to validate and inspect system state
+- RapidAscent Fellow focused on enterprise infrastructure skills  
+- Preparing for CompTIA CySA+ to strengthen defensive security capability  
+
 
 I prioritize understanding system behavior over memorizing commands and focus on building operational judgment that translates directly to production environments.
 
