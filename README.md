@@ -1,61 +1,64 @@
-Hi, I’m Helton Da Graca 
+# Helton Da Graca
 
-Active Duty U.S. Army (E-5) | 35T – Systems Maintainer  
-Aspiring Linux Systems Administrator / Engineer
+## Linux Systems | Infrastructure | Security-Minded Operations
 
----
+Hi — I’m **Helton Da Graca**, an Active Duty U.S. Army Systems Maintainer (35T) transitioning into Linux systems administration and infrastructure-focused roles.
 
-### About Me
+I bring 7 years of experience supporting mission-critical systems in secure environments, with a professional focus on reliability, access control, and operational discipline.
 
-I’m a mission-driven systems maintainer with **7 years of Active Duty Army service**, including **4 years as a 35T (Systems Maintainer)** supporting and sustaining critical intelligence infrastructure in secure environments. I’m currently transitioning to the civilian sector and the National Guard, with a focused goal of moving into Linux systems administration and engineering roles.
-
-My current emphasis is on **strong Linux fundamentals**, hands-on lab work, and building a deep understanding of how systems behave in production — not just how to configure them once.
+My work centers on developing deep Linux capability through hands-on engineering, scenario-based labs, and architecture-driven projects that mirror real-world enterprise patterns.
 
 ---
 
-### Current Focus
+## Current Technical Focus
 
 - Preparing for **Red Hat Certified System Administrator (RHCSA)**
-- Building RHCSA-aligned Linux labs (users, permissions, systemd, storage)
-- Practicing least-privilege access models and secure operations
-- Writing small Bash utilities to inspect and validate system state
+- Building production-style Linux lab environments  
+- Practicing least-privilege access models and secure administrative workflows  
+- Strengthening troubleshooting and system-level reasoning  
+- Writing Bash utilities to validate and inspect system state  
 
-I prefer learning by **building, breaking, validating, and documenting** rather than relying on rote memorization.
-
----
-
-### Background & Credentials
-
-- **Military**: Active Duty U.S. Army (E-5), 35T – Systems Maintainer  
-- **Experience**: 7 years Active Duty (4 years in systems maintenance roles)  
-- **Education**: B.S. Cybersecurity & Information Assurance (WGU, in progress)  
-- **Certifications**: CompTIA A+, Network+, Security+  
-- **Security Clearance**: Active TS/SCI  & CI poly
+I prioritize understanding system behavior over memorizing commands and focus on building operational judgment that translates directly to production environments.
 
 ---
 
-### Projects (Learning-Focused)
+## Featured Project
 
-- RHEL 9 Bastion Foundation Lab**  
-A segmented Linux environment using a bastion host, VPN-gated administrative access, and allow-list firewall policy designed to mirror enterprise security patterns.
+### 🔐 RHEL 9 Bastion Foundation Lab  
+Designed and implemented a segmented Linux environment featuring a bastion host, VPN-gated administrative access, and allow-list firewall controls to reflect enterprise infrastructure security patterns.
 
-https://github.com/HeltonDG/RHEL-9-Bastion-Foundation-Lab
-
-- **Linux System Audit (Bash)**  
-  Modular scripts designed to inspect system state and report health using exit codes and least-privilege execution.
-
-- **RHEL Labs (In Progress)**  
-  Hands-on labs aligned with RHCSA objectives, focused on identity management, permissions, services, and storage fundamentals.
-
-> Projects here are learning artifacts — I aim to understand and explain every line of code I write.
+👉 https://github.com/HeltonDG/RHEL-9-Bastion-Foundation-Lab
 
 ---
 
-### Location & Transition
+## Background
 
-📍 Currently in Raeford, NC  
-➡️ Relocating to Northern Virginia in 2026
+**Military:** Active Duty U.S. Army — Systems Maintainer (35T), Noncommissioned Officer  
+**Experience:** 7 years supporting intelligence infrastructure in high-security environments  
+**Education:** B.S. Cybersecurity & Information Assurance — WGU (in progress)  
+**Certifications:** CompTIA A+, Network+, Security+  
+**Clearance:** Active TS/SCI with CI polygraph  
 
 ---
 
-*This profile and my repositories reflect an active learning process. Nothing here contains sensitive, classified, or proprietary information.*
+## Professional Direction
+
+My career trajectory is centered on Linux-based infrastructure with an increasing focus on platform security.
+
+I am particularly interested in environments where operational reliability, disciplined access control, and thoughtful system design are treated as mission-critical.
+
+---
+
+## Location
+
+📍 Raeford, NC  
+➡️ Relocating to Northern Virginia (2026)
+
+My career trajectory is centered on Linux-based infrastructure with an increasing focus on platform security.
+
+I am particularly interested in environments where operational reliability, disciplined access control, and thoughtful system design are treated as mission-critical.
+
+Location
+
+📍 Raeford, NC
+➡️ Relocating to Northern Virginia (2026)
