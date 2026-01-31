@@ -36,7 +36,10 @@ I prefer learning by **building, breaking, validating, and documenting** rather 
 
 ### Projects (Learning-Focused)
 
-- https://github.com/HeltonDG/RHEL-9-Bastion-Foundation-Lab
+- RHEL 9 Bastion Foundation Lab**  
+A segmented Linux environment using a bastion host, VPN-gated administrative access, and allow-list firewall policy designed to mirror enterprise security patterns.
+
+https://github.com/HeltonDG/RHEL-9-Bastion-Foundation-Lab
 
 - **Linux System Audit (Bash)**  
   Modular scripts designed to inspect system state and report health using exit codes and least-privilege execution.
