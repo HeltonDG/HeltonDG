@@ -25,12 +25,17 @@ I prioritize understanding system behavior over memorizing commands and focus on
 
 ---
 
-## Featured Project
+## Infrastructure Project
 
-### RHEL 9 Bastion Foundation Lab  
-Designed and implemented a segmented Linux environment featuring a bastion host, VPN-gated administrative access, and allow-list firewall controls to reflect enterprise infrastructure security patterns.
+**RHEL-9 Bastion Foundation Lab**  
+  Bastion-based administrative architecture with VPN-gated access and internal segmentation.
 
 https://github.com/HeltonDG/RHEL-9-Bastion-Foundation-Lab
+
+**RHEL 9 Centralized Logging with Resilient Storage**  
+  Introduced an observability tier and re-architected storage following a controlled disk exhaustion incident to achieve failure-domain isolation.
+
+https://github.com/HeltonDG/rhel9-centralized-logging-resilient-storage
 
 ---
 
