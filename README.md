@@ -27,10 +27,10 @@ I prioritize understanding system behavior over memorizing commands and focus on
 
 ## Featured Project
 
-### 🔐 RHEL 9 Bastion Foundation Lab  
+### RHEL 9 Bastion Foundation Lab  
 Designed and implemented a segmented Linux environment featuring a bastion host, VPN-gated administrative access, and allow-list firewall controls to reflect enterprise infrastructure security patterns.
 
-👉 https://github.com/HeltonDG/RHEL-9-Bastion-Foundation-Lab
+https://github.com/HeltonDG/RHEL-9-Bastion-Foundation-Lab
 
 ---
 
