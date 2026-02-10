@@ -32,6 +32,11 @@ I prioritize understanding system behavior over memorizing commands and focus on
 
 https://github.com/HeltonDG/RHEL-9-Bastion-Foundation-Lab
 
+**bastion-tiered-trust-lab**
+  Expanded the initial bastion foundation by introducing a network firewall to establish tiered trust boundaries and strengthen administrative access controls.  
+
+https://github.com/HeltonDG/bastion-tiered-trust-lab
+
 **RHEL 9 Centralized Logging with Resilient Storage**  
   Introduced an observability tier and re-architected storage following a controlled disk exhaustion incident to achieve failure-domain isolation.
 
