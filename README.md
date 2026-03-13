@@ -2,7 +2,7 @@
 
 ## Linux Systems | Infrastructure | Security-Minded Operations
 
-Hi — I’m **Helton Da Graca**, an Active Duty U.S. Army Systems Maintainer (35T) transitioning into Linux systems administration and infrastructure-focused roles.
+Hi!! I’m **Helton Da Graca**, an Active Duty U.S. Army Systems Maintainer (35T) transitioning into Linux systems administration and infrastructure-focused roles.
 
 I bring **7 years supporting mission-critical systems in classified environments**, with a focus on reliability, disciplined operations, and secure administrative access.
 
