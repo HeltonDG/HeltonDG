@@ -53,7 +53,7 @@ https://github.com/HeltonDG/rhel9-centralized-logging-resilient-storage
 
 ## Background
 
-**Military:** U.S. Army — Systems Maintainer (35T), Noncommissioned Officer  
+**Military:** 7years active U.S. Army — Systems Maintainer (35T), Noncommissioned Officer  
 **Experience:** 4 years supporting intelligence infrastructure in high-security environments  
 **Education:** B.S. Cybersecurity & Information Assurance — WGU (in progress)  
 **Certifications:** CompTIA A+, Network+, Security+  
